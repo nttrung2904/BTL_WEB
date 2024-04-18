@@ -1,0 +1,246 @@
+[{
+        "id": 5,
+        "img": "../assets/img/product/LOGITECH/sp1/1.jpg",
+        "brand": "HP",
+        "title": "HP 280 Pro G5 SFF",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 52990000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp1/1.jpg",
+                "../assets/img/product/LOGITECH/sp1/2.jpg",
+                "../assets/img/product/LOGITECH/sp1/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_41617_6fw06a_ha3.jpg",
+                "https://phucanhcdn.com/media/product/75_41617_6fw06a_ha2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 13,
+        "img": "../assets/img/product/LOGITECH/sp2/1.jpg",
+        "brand": "HP",
+        "title": "HP ProOne 440 G9 8W8L6PA",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 40790000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp2/1.jpg",
+                "../assets/img/product/LOGITECH/sp2/2.jpg",
+                "../assets/img/product/LOGITECH/sp2/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_47807_m__y_qu__t_hp_scanjet_pro_2600_f1__20g05a__aa4.jpg",
+                "https://phucanhcdn.com/media/product/75_47807_m__y_qu__t_hp_scanjet_pro_2600_f1__20g05a__aa5.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 21,
+        "img": "../assets/img/product/LOGITECH/sp3/1.png",
+        "brand": "HP",
+        "title": "HP G Pro X",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 27199000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp3/1.png",
+                "../assets/img/product/LOGITECH/sp3/2.png",
+                "../assets/img/product/LOGITECH/sp3/3.jpeg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_29490_hp_enterprise_flow_7000_s3_l2757a_2.png",
+                "https://phucanhcdn.com/media/product/75_29490_hp_enterprise_flow_7000_s3_l2757a_1.jpeg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 29,
+        "img": "../assets/img/product/LOGITECH/sp4/1.jpg",
+        "brand": "HP",
+        "title": "HP G512 Lightsync RGB",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 16999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp4/1.jpg",
+                "../assets/img/product/LOGITECH/sp4/2.jpg",
+                "../assets/img/product/LOGITECH/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_47863_hp_scanjet_pro_3600_f1__20g06a__a3.jpg",
+                "https://phucanhcdn.com/media/product/75_47863_hp_scanjet_pro_3600_f1__20g06a__a4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 37,
+        "img": "../assets/img/product/LOGITECH/sp5/1.jpg",
+        "brand": "HP",
+        "title": "HP G502X RGB Plus Lightspeed",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 52549000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp5/1.jpg",
+                "../assets/img/product/LOGITECH/sp5/2.jpg",
+                "../assets/img/product/LOGITECH/sp5/3.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303666154236_may-in-hp-laserjet-m211d-9yf82a-trang-4.jpg",
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303662091875_may-in-hp-laserjet-m211d-9yf82a-trang-2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 6,
+        "img": "../assets/img/product/LOGITECH/sp7/1.jpeg",
+        "brand": "HP",
+        "title": "HP Pro X Superlight",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 38849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp7/1.jpeg",
+                "../assets/img/product/LOGITECH/sp7/2.jpeg",
+                "../assets/img/product/LOGITECH/sp7/3.jpeg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://fptshop.com.vn/Uploads/Thumbs/2022/9/28/637999817023372730_HP%20LaserJet%20M211dw%20(10).JPG",
+                "https://fptshop.com.vn/Uploads/Thumbs/2022/9/28/637999817027904039_HP%20LaserJet%20M211dw%20(2).JPG"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 14,
+        "img": "../assets/img/product/LOGITECH/sp8/1.jpg",
+        "brand": "HP",
+        "title": "HP G402 Hyperion Fury",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 13709000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp8/1.jpg",
+                "../assets/img/product/LOGITECH/sp8/2.jpg",
+                "../assets/img/product/LOGITECH/sp8/3.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303666466700_may-in-hp-laserjet-m211d-9yf82a-trang-3.jpg",
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303666154236_may-in-hp-laserjet-m211d-9yf82a-trang-4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    }
+]

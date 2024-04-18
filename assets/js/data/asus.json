@@ -1,0 +1,232 @@
+[{
+        "id": 18,
+        "img": "../assets/img/product/ASUS/sp1/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Strix Flare II NX",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 52990000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp1/1.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://quangminh.vn/image/cache/catalog/product/may-scan-fuji-xerox-c4250-1227-140x140.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 26,
+        "img": "../assets/img/product/ASUS/sp2/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Strix Flare II Animate NX",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 44249000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp2/1.jpg",
+                "../assets/img/product/ASUS/sp2/2.jpg",
+                "../assets/img/product/ASUS/sp2/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_51314_epson_ds_530ii_a2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 34,
+        "img": "../assets/img/product/ASUS/sp3/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Strix Scope TKL",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 53729000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp3/1.jpg",
+                "../assets/img/product/ASUS/sp3/2.jpg",
+                "../assets/img/product/ASUS/sp3/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_31213_dr_c225_ha3.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 3,
+        "img": "../assets/img/product/ASUS/sp5/1.png",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Harpe ACE AIM LAB Black",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 53199000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp5/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://huynhgiatrading.com/uploads/products/800/1594773643_157_4002ps.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 11,
+        "img": "../assets/img/product/ASUS/sp6/1.webp",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox III Wireless Aimpoint",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 29499000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp6/1.webp",
+                "../assets/img/product/ASUS/sp6/2.webp",
+                "../assets/img/product/ASUS/sp6/3.webp"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://st.meta.vn/Data/image/2021/11/15/may-in-mau-fuji-xerox-sc-2022-4.jpg",
+                "https://st.meta.vn/Data/image/2021/11/15/may-in-mau-fuji-xerox-sc-2022-3.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 19,
+        "img": "../assets/img/product/ASUS/sp7/1.jpeg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Chakram X",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 53219000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp7/1.jpeg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://shopmayvanphong.vn/wp-content/uploads/2019/11/xerox-m225z.jpeg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 27,
+        "img": "../assets/img/product/ASUS/sp8/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Keris EVA",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 29169000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp8/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://shopmayvanphong.vn/wp-content/uploads/2019/11/xerox-m265z.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    }
+]

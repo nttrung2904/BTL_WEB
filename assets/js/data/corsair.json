@@ -1,0 +1,202 @@
+[{
+        "id": 35,
+        "img": "../assets/img/product/CORSAIR/sp1/1.jpg",
+        "brand": "Ricoh",
+        "title": " Ricoh Optiplex 3050 SFF",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 43899000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp1/1.jpg",
+                "../assets/img/product/CORSAIR/sp1/2.jpg",
+                "../assets/img/product/CORSAIR/sp1/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_53562_may_scan_ricoh_fi_8170_4.jpg",
+                "https://phucanhcdn.com/media/product/75_53562_may_scan_ricoh_fi_8170_4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 4,
+        "img": "../assets/img/product/CORSAIR/sp3/1.jpg",
+        "brand": "Ricoh",
+        "title": "Ricoh Inspiron 3020MT",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 41490000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp3/1.jpg",
+                "../assets/img/product/CORSAIR/sp3/2.jpg",
+                "../assets/img/product/CORSAIR/sp3/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_33967_lide_400_ha1.jpg",
+                "https://phucanhcdn.com/media/product/75_33967_lide_400_ha4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 12,
+        "img": "../assets/img/product/CORSAIR/sp4/1.jpg",
+        "brand": "Ricoh",
+        "title": "Ricoh K70 RGB MK2 SE Speed",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 52200000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp4/1.jpg",
+                "../assets/img/product/CORSAIR/sp4/2.jpg",
+                "../assets/img/product/CORSAIR/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_50545_plustek_opticpro_a320e__a3__a3.jpg",
+                "https://phucanhcdn.com/media/product/75_50545_plustek_opticpro_a320e__a3__a4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 20,
+        "img": "../assets/img/product/CORSAIR/sp5/1.png",
+        "brand": "Ricoh",
+        "title": "Ricoh M65 RGB Ultra",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 25499000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp5/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://azcopy.vn/wp-content/uploads/RICOH-MP-2555_3055_3555_4055_5055_6055-series.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 28,
+        "img": "../assets/img/product/CORSAIR/sp6/1.png",
+        "brand": "Ricoh",
+        "title": "Ricoh Ironclaw RGB Wireless",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 26499000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp6/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://azcopy.vn/wp-content/uploads/May-photocopy-ricoh-IM-2500_3000_3500_4000_5000_6000.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 36,
+        "img": "../assets/img/product/CORSAIR/sp7/1.png",
+        "brand": "Ricoh",
+        "title": "Ricoh Sabre Pro RGB",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 48299000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp7/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://azcopy.vn/wp-content/uploads/RICOH-MP-2555_3055_3555_4055_5055_6055-series.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    }
+]

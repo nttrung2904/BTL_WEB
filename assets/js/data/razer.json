@@ -1,0 +1,197 @@
+[{
+        "id": 39,
+        "img": "../assets/img/product/RAZER/sp1/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung DeathStalker V2 Pro TKL",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 43889000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp1/1.jpg",
+                "../assets/img/product/RAZER/sp1/2.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_31963_hp_scanjet_pro_2500_f1_ha2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 8,
+        "img": "../assets/img/product/RAZER/sp3/1.png",
+        "brand": "Samsung",
+        "title": "Samsung Huntsman V2 Analog",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 55640000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp3/1.png"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/34528_canon_dr_f120.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 16,
+        "img": "../assets/img/product/RAZER/sp4/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Ornata Expert Limited Edition",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 29999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp4/1.jpg",
+                "../assets/img/product/RAZER/sp4/2.jpg",
+                "../assets/img/product/RAZER/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__2_.jpg",
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__1_.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 24,
+        "img": "../assets/img/product/RAZER/sp5/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Viper",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 14659000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp5/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "http://trungviethung.com/Image/_thumbs/Picture/Samsung/May_in/CLP-365.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 32,
+        "img": "../assets/img/product/RAZER/sp6/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Viper V2 Pro White Ultra Lightweight",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 52490000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp6/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "http://trungviethung.com/Image/_thumbs/Picture/Samsung/May_in/SCX-3401F.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 40,
+        "img": "../assets/img/product/RAZER/sp7/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Basilisk V3",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 15599000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp7/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "http://trungviethung.com/Image/_thumbs/Picture/Samsung/May_in/May%20in%20Samsung%20SL-M2020.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    }
+]

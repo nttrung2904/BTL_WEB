@@ -1,0 +1,238 @@
+[{
+        "id": 1,
+        "img": "../assets/img/product/ACER/sp1/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta 004",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 41900000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp1/3.jpg",
+                "../assets/img/product/ACER/sp1/2.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_33966_lide_300_ha3.jpg",
+                "https://phucanhcdn.com/media/product/75_33966_lide_300_ha2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 9,
+        "img": "../assets/img/product/ACER/sp2/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta VERITON X2690G",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 24510000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp2/1.jpg",
+                "../assets/img/product/ACER/sp2/2.jpg",
+                "../assets/img/product/ACER/sp2/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__2_.jpg",
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__1_.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 17,
+        "img": "../assets/img/product/ACER/sp3/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Aethon 301 TKL",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 28500000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp3/1.jpg",
+                "../assets/img/product/ACER/sp3/2.jpg",
+                "../assets/img/product/ACER/sp3/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_33395_p_215_mark_ii_ha3.jpg",
+                "https://phucanhcdn.com/media/product/75_33395_p_215_mark_ii_ha4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 25,
+        "img": "../assets/img/product/ACER/sp4/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Aethon 300",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 53290000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp4/1.jpg",
+                "../assets/img/product/ACER/sp4/2.jpg",
+                "../assets/img/product/ACER/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_53332_may_scan_ricoh_sv600_1.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 33,
+        "img": "../assets/img/product/ACER/sp5/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Cestus 330",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 16111000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp5/1.jpg",
+                "../assets/img/product/ACER/sp5/2.jpg",
+                "../assets/img/product/ACER/sp5/3.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://konica.vn/wp-content/uploads/2020/11/bizhub_press_1250_1052_1051-100x100.jpg",
+                "https://konica.vn/wp-content/uploads/2020/11/konica-bizhub_press_1250_1052_1051-1-100x100.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 2,
+        "img": "../assets/img/product/ACER/sp7/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Cestus 500",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 42000000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp7/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://konica.vn/wp-content/uploads/2020/09/konica-bizhub_PRESS_C1100C1085-1.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 10,
+        "img": "../assets/img/product/ACER/sp8/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Cestus 300",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 16500000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp8/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://konica.vn/wp-content/uploads/2020/09/AccurioPress_C2070-C2060.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    }
+]

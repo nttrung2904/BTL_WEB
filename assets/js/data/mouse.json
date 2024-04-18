@@ -1,0 +1,656 @@
+[{
+        "id": 2,
+        "img": "../assets/img/product/ACER/sp7/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Cestus 500",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 42000000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp7/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://konica.vn/wp-content/uploads/2020/09/konica-bizhub_PRESS_C1100C1085-1.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 3,
+        "img": "../assets/img/product/ASUS/sp5/1.png",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Harpe ACE AIM LAB Black",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 53199000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp5/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://huynhgiatrading.com/uploads/products/800/1594773643_157_4002ps.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 6,
+        "img": "../assets/img/product/LOGITECH/sp7/1.jpeg",
+        "brand": "HP",
+        "title": "HP Pro X Superlight",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 38849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp7/1.jpeg",
+                "../assets/img/product/LOGITECH/sp7/2.jpeg",
+                "../assets/img/product/LOGITECH/sp7/3.jpeg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://fptshop.com.vn/Uploads/Thumbs/2022/9/28/637999817023372730_HP%20LaserJet%20M211dw%20(10).JPG",
+                "https://fptshop.com.vn/Uploads/Thumbs/2022/9/28/637999817027904039_HP%20LaserJet%20M211dw%20(2).JPG"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 7,
+        "img": "../assets/img/product/MSI/sp5/1.jpg",
+        "brand": "Toshiba",
+        "title": "Toshiba GM41",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 14990000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp5/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://giavan.com.vn/wp-content/uploads/2016/10/toshiba-e-studio-206.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 10,
+        "img": "../assets/img/product/ACER/sp8/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Cestus 300",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 16500000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp8/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://konica.vn/wp-content/uploads/2020/09/AccurioPress_C2070-C2060.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 11,
+        "img": "../assets/img/product/ASUS/sp6/1.webp",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox III Wireless Aimpoint",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 29499000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp6/1.webp",
+                "../assets/img/product/ASUS/sp6/2.webp",
+                "../assets/img/product/ASUS/sp6/3.webp"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://st.meta.vn/Data/image/2021/11/15/may-in-mau-fuji-xerox-sc-2022-4.jpg",
+                "https://st.meta.vn/Data/image/2021/11/15/may-in-mau-fuji-xerox-sc-2022-3.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 14,
+        "img": "../assets/img/product/LOGITECH/sp8/1.jpg",
+        "brand": "HP",
+        "title": "HP G402 Hyperion Fury",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 13709000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp8/1.jpg",
+                "../assets/img/product/LOGITECH/sp8/2.jpg",
+                "../assets/img/product/LOGITECH/sp8/3.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303666466700_may-in-hp-laserjet-m211d-9yf82a-trang-3.jpg",
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303666154236_may-in-hp-laserjet-m211d-9yf82a-trang-4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 15,
+        "img": "../assets/img/product/MSI/sp6/1.jpg",
+        "brand": "Toshiba",
+        "title": "Toshiba Clutch GM50",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 16349000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp6/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://giavan.com.vn/wp-content/uploads/2024/02/may-photocopy-toshiba-e-studio-4505ac.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 19,
+        "img": "../assets/img/product/ASUS/sp7/1.jpeg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Chakram X",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 53219000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp7/1.jpeg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://shopmayvanphong.vn/wp-content/uploads/2019/11/xerox-m225z.jpeg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 20,
+        "img": "../assets/img/product/CORSAIR/sp5/1.png",
+        "brand": "Ricoh",
+        "title": "Ricoh M65 RGB Ultra",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 25499000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp5/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://azcopy.vn/wp-content/uploads/RICOH-MP-2555_3055_3555_4055_5055_6055-series.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 23,
+        "img": "../assets/img/product/MSI/sp7/1.jpg",
+        "brand": "Toshiba",
+        "title": "Toshiba Clutch GM20 Elite",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 14749000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp7/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://giavan.com.vn/wp-content/uploads/2020/12/may-photocopy-toshiba-e2008a.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 24,
+        "img": "../assets/img/product/RAZER/sp5/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Viper",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 14659000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp5/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "http://trungviethung.com/Image/_thumbs/Picture/Samsung/May_in/CLP-365.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 27,
+        "img": "../assets/img/product/ASUS/sp8/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Keris EVA",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 29169000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp8/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://shopmayvanphong.vn/wp-content/uploads/2019/11/xerox-m265z.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 28,
+        "img": "../assets/img/product/CORSAIR/sp6/1.png",
+        "brand": "Ricoh",
+        "title": "Ricoh Ironclaw RGB Wireless",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 26499000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp6/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://azcopy.vn/wp-content/uploads/May-photocopy-ricoh-IM-2500_3000_3500_4000_5000_6000.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 31,
+        "img": "../assets/img/product/MSI/sp8/1.jpg",
+        "brand": "Toshiba",
+        "title": "Toshiba Clutch GM30",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 13849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp8/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://giavan.com.vn/wp-content/uploads/2021/05/may-photocopy-mau-toshiba-e-studio-7506ac.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 32,
+        "img": "../assets/img/product/RAZER/sp6/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Viper V2 Pro White Ultra Lightweight",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 52490000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp6/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "http://trungviethung.com/Image/_thumbs/Picture/Samsung/May_in/SCX-3401F.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 33,
+        "img": "../assets/img/product/ACER/sp5/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Cestus 330",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 16111000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp5/1.jpg",
+                "../assets/img/product/ACER/sp5/2.jpg",
+                "../assets/img/product/ACER/sp5/3.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://konica.vn/wp-content/uploads/2020/11/bizhub_press_1250_1052_1051-100x100.jpg",
+                "https://konica.vn/wp-content/uploads/2020/11/konica-bizhub_press_1250_1052_1051-1-100x100.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 36,
+        "img": "../assets/img/product/CORSAIR/sp7/1.png",
+        "brand": "Ricoh",
+        "title": "Ricoh Sabre Pro RGB",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 48299000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp7/1.png"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://azcopy.vn/wp-content/uploads/RICOH-MP-2555_3055_3555_4055_5055_6055-series.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 37,
+        "img": "../assets/img/product/LOGITECH/sp5/1.jpg",
+        "brand": "HP",
+        "title": "HP G502X RGB Plus Lightspeed",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 52549000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp5/1.jpg",
+                "../assets/img/product/LOGITECH/sp5/2.jpg",
+                "../assets/img/product/LOGITECH/sp5/3.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303666154236_may-in-hp-laserjet-m211d-9yf82a-trang-4.jpg",
+                "https://fptshop.com.vn/Uploads/Thumbs/2021/11/3/637715303662091875_may-in-hp-laserjet-m211d-9yf82a-trang-2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 40,
+        "img": "../assets/img/product/RAZER/sp7/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Basilisk V3",
+        "descrip": "Máy in",
+        "cost": "",
+        "price": 15599000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp7/1.jpg"
+            ],
+            "des": "Máy in",
+            "des_img": [
+                "http://trungviethung.com/Image/_thumbs/Picture/Samsung/May_in/May%20in%20Samsung%20SL-M2020.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    }
+]

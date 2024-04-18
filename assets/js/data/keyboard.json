@@ -1,0 +1,687 @@
+[{
+        "id": 1,
+        "img": "../assets/img/product/ACER/sp1/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta 004",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 41900000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp1/3.jpg",
+                "../assets/img/product/ACER/sp1/2.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_33966_lide_300_ha3.jpg",
+                "https://phucanhcdn.com/media/product/75_33966_lide_300_ha2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 4,
+        "img": "../assets/img/product/CORSAIR/sp3/1.jpg",
+        "brand": "Ricoh",
+        "title": "Ricoh Inspiron 3020MT",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 41490000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp3/1.jpg",
+                "../assets/img/product/CORSAIR/sp3/2.jpg",
+                "../assets/img/product/CORSAIR/sp3/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_33967_lide_400_ha1.jpg",
+                "https://phucanhcdn.com/media/product/75_33967_lide_400_ha4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 5,
+        "img": "../assets/img/product/LOGITECH/sp1/1.jpg",
+        "brand": "HP",
+        "title": "HP 280 Pro G5 SFF",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 52990000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp1/1.jpg",
+                "../assets/img/product/LOGITECH/sp1/2.jpg",
+                "../assets/img/product/LOGITECH/sp1/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_41617_6fw06a_ha3.jpg",
+                "https://phucanhcdn.com/media/product/75_41617_6fw06a_ha2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 8,
+        "img": "../assets/img/product/RAZER/sp3/1.png",
+        "brand": "Samsung",
+        "title": "Samsung Huntsman V2 Analog",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 55640000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp3/1.png"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/34528_canon_dr_f120.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 9,
+        "img": "../assets/img/product/ACER/sp2/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta VERITON X2690G",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 24510000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp2/1.jpg",
+                "../assets/img/product/ACER/sp2/2.jpg",
+                "../assets/img/product/ACER/sp2/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__2_.jpg",
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__1_.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 12,
+        "img": "../assets/img/product/CORSAIR/sp4/1.jpg",
+        "brand": "Ricoh",
+        "title": "Ricoh K70 RGB MK2 SE Speed",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 52200000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp4/1.jpg",
+                "../assets/img/product/CORSAIR/sp4/2.jpg",
+                "../assets/img/product/CORSAIR/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_50545_plustek_opticpro_a320e__a3__a3.jpg",
+                "https://phucanhcdn.com/media/product/75_50545_plustek_opticpro_a320e__a3__a4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 13,
+        "img": "../assets/img/product/LOGITECH/sp2/1.jpg",
+        "brand": "HP",
+        "title": "HP ProOne 440 G9 8W8L6PA",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 40790000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp2/1.jpg",
+                "../assets/img/product/LOGITECH/sp2/2.jpg",
+                "../assets/img/product/LOGITECH/sp2/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_47807_m__y_qu__t_hp_scanjet_pro_2600_f1__20g05a__aa4.jpg",
+                "https://phucanhcdn.com/media/product/75_47807_m__y_qu__t_hp_scanjet_pro_2600_f1__20g05a__aa5.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 16,
+        "img": "../assets/img/product/RAZER/sp4/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Ornata Expert Limited Edition",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 29999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp4/1.jpg",
+                "../assets/img/product/RAZER/sp4/2.jpg",
+                "../assets/img/product/RAZER/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__2_.jpg",
+                "https://phucanhcdn.com/media/product/75_18825_kodak_scanmate_i940__1_.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 17,
+        "img": "../assets/img/product/ACER/sp3/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Aethon 301 TKL",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 28500000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp3/1.jpg",
+                "../assets/img/product/ACER/sp3/2.jpg",
+                "../assets/img/product/ACER/sp3/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_33395_p_215_mark_ii_ha3.jpg",
+                "https://phucanhcdn.com/media/product/75_33395_p_215_mark_ii_ha4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 18,
+        "img": "../assets/img/product/ASUS/sp1/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Strix Flare II NX",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 52990000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp1/1.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://quangminh.vn/image/cache/catalog/product/may-scan-fuji-xerox-c4250-1227-140x140.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 21,
+        "img": "../assets/img/product/LOGITECH/sp3/1.png",
+        "brand": "HP",
+        "title": "HP G Pro X",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 27199000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp3/1.png",
+                "../assets/img/product/LOGITECH/sp3/2.png",
+                "../assets/img/product/LOGITECH/sp3/3.jpeg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_29490_hp_enterprise_flow_7000_s3_l2757a_2.png",
+                "https://phucanhcdn.com/media/product/75_29490_hp_enterprise_flow_7000_s3_l2757a_1.jpeg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 22,
+        "img": "../assets/img/product/MSI/sp1/1.jpg",
+        "brand": "Toshiba",
+        "title": "Toshiba Vigor GK71 Sonic",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 37849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp1/1.jpg",
+                "../assets/img/product/MSI/sp1/2.jpg",
+                "../assets/img/product/MSI/sp1/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_53418_may_scan_epson_ds_c330_3.jpg",
+                "https://phucanhcdn.com/media/product/75_53418_may_scan_epson_ds_c330_4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 25,
+        "img": "../assets/img/product/ACER/sp4/1.jpg",
+        "brand": "Konica Minolta",
+        "title": "Konica Minolta Predator Aethon 300",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 53290000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp4/1.jpg",
+                "../assets/img/product/ACER/sp4/2.jpg",
+                "../assets/img/product/ACER/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_53332_may_scan_ricoh_sv600_1.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 26,
+        "img": "../assets/img/product/ASUS/sp2/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Strix Flare II Animate NX",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 44249000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp2/1.jpg",
+                "../assets/img/product/ASUS/sp2/2.jpg",
+                "../assets/img/product/ASUS/sp2/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_51314_epson_ds_530ii_a2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 29,
+        "img": "../assets/img/product/LOGITECH/sp4/1.jpg",
+        "brand": "HP",
+        "title": "HP G512 Lightsync RGB",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 16999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp4/1.jpg",
+                "../assets/img/product/LOGITECH/sp4/2.jpg",
+                "../assets/img/product/LOGITECH/sp4/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_47863_hp_scanjet_pro_3600_f1__20g06a__a3.jpg",
+                "https://phucanhcdn.com/media/product/75_47863_hp_scanjet_pro_3600_f1__20g06a__a4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 30,
+        "img": "../assets/img/product/MSI/sp2/1.jpg",
+        "brand": "Toshiba",
+        "title": "Toshiba Vigor GK30 White",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 37120000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp2/1.jpg",
+                "../assets/img/product/MSI/sp2/2.jpg",
+                "../assets/img/product/MSI/sp2/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_52691_may_scan_brother_ads_4700w_1.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 34,
+        "img": "../assets/img/product/ASUS/sp3/1.jpg",
+        "brand": "Fuji Xerox",
+        "title": "Fuji Xerox Strix Scope TKL",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 53729000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp3/1.jpg",
+                "../assets/img/product/ASUS/sp3/2.jpg",
+                "../assets/img/product/ASUS/sp3/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_31213_dr_c225_ha3.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 35,
+        "img": "../assets/img/product/CORSAIR/sp1/1.jpg",
+        "brand": "Ricoh",
+        "title": " Ricoh Optiplex 3050 SFF",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 43899000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp1/1.jpg",
+                "../assets/img/product/CORSAIR/sp1/2.jpg",
+                "../assets/img/product/CORSAIR/sp1/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_53562_may_scan_ricoh_fi_8170_4.jpg",
+                "https://phucanhcdn.com/media/product/75_53562_may_scan_ricoh_fi_8170_4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 38,
+        "img": "../assets/img/product/MSI/sp3/1.jpg",
+        "brand": "Toshiba",
+        "title": "Toshiba Vigor GK50 TKL",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 15929000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp3/1.jpg",
+                "../assets/img/product/MSI/sp3/2.jpg",
+                "../assets/img/product/MSI/sp3/3.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_47964_plustek_x50_a_3.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 39,
+        "img": "../assets/img/product/RAZER/sp1/1.jpg",
+        "brand": "Samsung",
+        "title": "Samsung DeathStalker V2 Pro TKL",
+        "descrip": "Máy scan",
+        "cost": "",
+        "price": 43889000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp1/1.jpg",
+                "../assets/img/product/RAZER/sp1/2.jpg"
+            ],
+            "des": "Máy scan",
+            "des_img": [
+                "https://phucanhcdn.com/media/product/75_31963_hp_scanjet_pro_2500_f1_ha2.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt. Mang lại sự tiện lợi cho cuộc sống",
+                "Các tính năng vượt trội."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "MANG LẠI SỰ TIỆN LỢI CHO NGƯỜI DÙNG."
+            ]
+        },
+        "data-aos": "fade-up"
+    }
+]
